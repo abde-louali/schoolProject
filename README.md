@@ -55,17 +55,19 @@ Admin Panel: http://localhost/StudentManagementSystem/admin
 Username: admin
 Password: admin123
 📱 Screenshots
-🏠 Home Pages:
+🔓 Login Pages:
+![alt text](./images/s2.png)
+![alt text](./images/s1.png)
+![alt text](./images/s3.png)
 
+
+
+🏠 Home Pages:
 ![alt text](./images/s4.png)
 ![alt text](./images/s5.png)
 ![alt text](./images/s6.png)
 
-🔓 Login Pages:
 
-![alt text](./images/s2.png)
-![alt text](./images/s1.png)
-![alt text](./images/s3.png)
 
 
 
