@@ -113,7 +113,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Your Name | Omar Bouazzaoui 
+Your Name | Omar Bouazzaoui / Taouil Aboubakr / Walid lkheraq / Abdessamad Louali
 
 🙏 Acknowledgments
 Font Awesome for icons
